@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">🔥Computer science student, amateur of C-like languages and .NET platform🔥
   <br>
-  <img src="https://i.gifer.com/1FA.mp4" alt="я джифка">
+  <img src="https://i.gifer.com/1FA.gif" alt="я джифка">
   <br>
   🌱 I’m currently learning ASP.NET Core</h2>
 <h3 align="center">⚡If you want to know the true face of a programmer, look at his face when the compilation goes without errors the first time⚡ </h3>
