@@ -2,9 +2,9 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Maximiliano</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">🔥Computer science student, amateur of C-like languages and .NET platform🔥
-  <br>
+  <br><br>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300 "/>
-  <br>
+  <br><br>
   🌱 I’m currently learning ASP.NET Core</h2>
 <h3 align="center">⚡If you want to know the true face of a programmer, look at his face when the compilation goes without errors the first time⚡ </h3>
 
