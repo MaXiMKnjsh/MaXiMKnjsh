@@ -2,6 +2,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Maximiliano</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">🔥Computer science student, amateur of C-like languages and .NET platform🔥
+  <br>
+  Crazy about C#🤤
   <br><br>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300 "/>
   <br><br>
