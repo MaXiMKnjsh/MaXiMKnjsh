@@ -3,7 +3,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2 align="center">🔥Computer science student, amateur of C-like languages and .NET platform🔥
   <br>
- <div class="tenor-gif-embed" data-postid="25311350" data-share-method="host" data-aspect-ratio="1.58416" data-width="100%"><a href="https://tenor.com/view/monkey-computer-gif-25311350">Monkey Computer GIF</a>from <a href="https://tenor.com/search/monkey+computer-gifs">Monkey Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br>
   🌱 I’m currently learning ASP.NET Core</h2>
 <h3 align="center">⚡If you want to know the true face of a programmer, look at his face when the compilation goes without errors the first time⚡ </h3>
