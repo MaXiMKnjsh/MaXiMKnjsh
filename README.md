@@ -5,7 +5,8 @@
   <br><br>
 <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300 "/>
   <br><br>
-  🌱 I’m currently learning ASP.NET Core</h2>
+  🌱 I’m currently learning ASP.NET Core<br>
+  🤔 I'm looking for help with finding an internship</h2>
 <h3 align="center">⚡If you want to know the true face of a programmer, look at his face when the compilation goes without errors the first time⚡ </h3>
 
 
