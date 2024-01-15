@@ -1,4 +1,9 @@
-### Hi there 👋
+### 
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Maximiliano</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Computer science student, amateur of C-like languages and .NET platform</h3>
+
+
 
 <!--
 **MaXiMKnjsh/MaXiMKnjsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
